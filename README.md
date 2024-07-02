@@ -1,4 +1,4 @@
-### Hi there 👋, I am Jaheda Sultana
+## Hi, I am Jaheda Sultana🌸
 #### Web Developer
 ![Web Developer](https://i.postimg.cc/Fz89Cmg1/1.png)
 
@@ -10,7 +10,6 @@ Feel free to reach out to me at jahedasultana47@gmail.com or explore my work on 
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)   ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning  JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
