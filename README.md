@@ -19,7 +19,6 @@ Feel free to reach out to me at jahedasultana47@gmail.com or explore my work on 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahedasultana)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jahedasultana)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahedasultana)](https://github.com/anuraghazra/github-readme-stats)
 
