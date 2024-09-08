@@ -1,5 +1,5 @@
 
-![Web Developer](https://i.postimg.cc/yxzGSvMb/1.png)
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/yxzGSvMb/1.png)
 ## Hi, I am Jaheda Sultana
 Hi there! I'm Jaheda Sultana, a passionate wave developer with a keen interest in creating innovative and efficient solutions. With a strong background in [mention relevant technologies or frameworks], I enjoy building and optimizing web applications to enhance user experience and performance. I'm always eager to learn new skills and collaborate on exciting projects.
 
