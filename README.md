@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **jahedasultana47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oCarMau-RXhNDjSiMjLU3LvBrn8nlBnr/view](https://drive.google.com/file/d/1oCarMau-RXhNDjSiMjLU3LvBrn8nlBnr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Mm64dUldT-JfsAHQUW43Rvxhoa8XeM76/view](https://drive.google.com/file/d/1Mm64dUldT-JfsAHQUW43Rvxhoa8XeM76/view)
 
 - ⚡ Fun fact **I write code in my sleep**
 
