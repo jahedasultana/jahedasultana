@@ -6,7 +6,7 @@
 <p>I have hands-on experience working with modern web technologies and frameworks, and I’m continuously learning to stay up to date with industry best practices. I enjoy collaborating on meaningful projects and solving real-world problems through code.</p>
 
 <h2>💡 Tech Stack:</h2>
-<p>React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB · Tailwind CSS</p>
+<p>React · Next.js · JavaScript · TypeScript · Node.js · Express · Tailwind CSS . Mongoose . PostgreSQL . Prisma . Redux</p>
 
 <h2>GitHub Stats</h1>
 
