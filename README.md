@@ -19,7 +19,7 @@
 
 <h2>Work Status</h2>
 
-- 🔭 I’m currently working on [My Protfolio](https://jahedasultana.vercel.app/)
+- 🔭 I’m currently working on [My Protfolio](https://assinment-7-client.vercel.app)
 
 - 🌱 I’m currently learning ** GSAP, JWT, MySQL**
 
