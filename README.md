@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [My Protfolio](https://assinment-7-client.vercel.app)
 
-- 🌱 I’m currently learning ** GSAP, JWT, MySQL**
+- 🌱 I’m currently learning ** Docker **
 
 - 💬 Ask me about **React.js, Express.js**
 
