@@ -1,9 +1,12 @@
 ![I am GitHub Readme Generator's creator](https://i.postimg.cc/SRgmWkKq/Untitled-design-1.png)
 
 <h2>About me</h2>
-<p>Hi there! I'm Jaheda Sultana, a passionate wave developer with a keen interest in creating innovative and efficient solutions. With a strong background in [mention relevant technologies or frameworks], I enjoy building and optimizing web applications to enhance user experience and performance. I'm always eager to learn new skills and collaborate on exciting projects.</p>
+<p>Hi, I’m Jaheda Sultana, a passionate Web Developer focused on building clean, scalable, and user-centric web applications. I enjoy transforming ideas into efficient digital solutions with attention to performance, usability, and maintainability.</p>
 
-<p>Feel free to reach out to me at jahedasultana47@gmail.com or explore my work on GitHub. Let's connect and create something amazing together!</p>
+<p>I have hands-on experience working with modern web technologies and frameworks, and I’m continuously learning to stay up to date with industry best practices. I enjoy collaborating on meaningful projects and solving real-world problems through code.</p>
+
+<h2>💡 Tech Stack:</h2>
+<p>React · Next.js · JavaScript · TypeScript · Node.js · Express · MongoDB · Tailwind CSS</p>
 
 <h2>GitHub Stats</h1>
 
