@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.postimg.cc/SRgmWkKq/Untitled-design-1.png)
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/MK1NnQP0/Screenshot-2026-01-02-203814.png)
 
 <h2>About me</h2>
 <p>Hi, I’m Jaheda Sultana, a passionate Web Developer focused on building clean, scalable, and user-centric web applications. I enjoy transforming ideas into efficient digital solutions with attention to performance, usability, and maintainability.</p>
